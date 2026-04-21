@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tarun.v/java",
+      "program": "/Users/tarun.v/java/build/Debug/outDebug"
+    }
+  ]
+}
